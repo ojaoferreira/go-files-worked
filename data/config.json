@@ -1,0 +1,12 @@
+[
+  {
+    "addr": "kubelabs.com.br",
+    "protocol": "https",
+    "type": "website"
+  },
+  {
+    "addr": "begingo.com",
+    "protocol": "https",
+    "type": "website"
+  }
+]
